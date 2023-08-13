@@ -5,7 +5,7 @@ import zhcnMessages from './messages/zh_CN.json';
 import ptMessages from './messages/pt.json';
 import itMessages from './messages/it.json';
 import ukMessages from './messages/uk.json';
-import deMessages from './messages/de.json';
+import dedeMessages from './messages/de_DE.json';
 import ruMessages from './messages/ru.json';
 import hiMessages from './messages/hi.json';
 import frCAMessages from './messages/fr_CA.json';
@@ -18,7 +18,7 @@ const messages = {
   'zh-cn': zhcnMessages,
   pt: ptMessages,
   it: itMessages,
-  de: deMessages,
+  'de-de': dedeMessages,
   hi: hiMessages,
   'fr-ca': frCAMessages,
   ru: ruMessages,
